@@ -33,19 +33,18 @@ Import separately or all at once:
     <tr>
       <th><code>colors.less</code></th>
       <td>From the webmaker styleguide. Includes:
-        <ul class="colors">
-          <li style="background-color:#ffcd36;">@yellow</li>
-          <li style="background-color:#fff2cc;">@lightyellow</li>
-          <li style="background-color:#3fb58e;">@green</li>
-          <li style="background-color:#328f70;">@darkgreen</li>
-          <li style="background-color:#27aae1;">@blue</li>
-          <li style="background-color:#c13832;">@red</li>
-          <li style="background-color:#4d4e53;color:#fff;">@grey</li>
-          <li style="background-color:#e3eaee;">@lightgrey</li>
-          <li style="background-color:#ddd;">@midgrey</li>
-          <li style="background-color:#fff;">@white</li>
-          <li style="background-color:#000;color:#FFF">@black</li>
-        </ul>
+        @yellow,
+        @lightyellow,
+        @green,
+        @darkgreen,
+        @blue,
+        @red,
+        @grey,
+        @lightgrey,
+        @midgrey,
+        @white,
+        @black
+
       </td>
     </tr>
   </tbody>
